@@ -1,3 +1,14 @@
+# Specific files
+*.zip
+*.tar
+*.gz
+*.tgz
+notMNIST_large/
+notMNIST_small/
+*.pickle
+cifar-10-batches-py/
+
+
 # Mac OS
 .DS_Store
 
